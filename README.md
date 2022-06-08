@@ -11,7 +11,7 @@
   <h2>Conteúdo: </h2><br>
 </div>
 
-- Consulte os slides: [Slides: Listas, recursão e aleatoriedade](https://github.com/elc117/t2-2022a-luis_chesani_joao_davi/files/8857686/Listas.recursao.e.aleatoriedade.pdf).
+- Consulte os slides: [Slides: Listas, recursão e aleatoriedade](https://github.com/elc117/t2-2022a-luis_chesani_joao_davi/blob/main/Listas%2C%20recurs%C3%A3o%20e%20aleatoriedade.pdf).
 
 - Explore o [Exemplo](https://github.com/elc117/t2-2022a-luis_chesani_joao_davi/blob/main/exemplo.pl) na íntegra.
 
