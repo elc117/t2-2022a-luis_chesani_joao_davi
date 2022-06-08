@@ -1,8 +1,7 @@
 <div align="center">
-  <h1>Trabalho sobre Prolog <br> - <br> João Davi Rigo Mazzarolo & Luís Henrique Chesani </h1>
-  <p>Tema: Listas, Recursão e Aleatoriedade em Prolog</p>
+  <h1>Listas, Recursão e Aleatoriedade em Prolog</h1>
+  <h2>Luís Henrique Chesani & João Davi Mazzarolo</h2>
 </div>
-
 <div align="center">
   <img align="center" width="700" src="./src/logo_prolog.png" />
 </div>
